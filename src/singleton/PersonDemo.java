@@ -10,7 +10,7 @@ public class PersonDemo {
 		
 //		Person p2 = new Person();
 		Person p2 = Person.getInstance();
-		p2.name = "Bulent";
+		p2.name = "Bulent"; 
 		p2.age = 25;
 		
 		p1.display();
